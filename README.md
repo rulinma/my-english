@@ -26,3 +26,4 @@
 * [BBC发音](https://www.bilibili.com/video/BV1Y4411M7Ac?)
 * [你必须知道的英语发音技巧(让你的口语更纯正, 更地道!)](https://www.bilibili.com/video/BV1SZ4y1K7Lr)
 * [每日英语听写 Daily English Dictation 1-400](https://www.bilibili.com/video/BV1U7411a7xG)
+* [可汗学院](https://www.khanacademy.org)
